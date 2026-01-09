@@ -2,3 +2,14 @@ build/
 install/
 log/
 .colcon/
+
+*.db3
+*.bag
+*.pgm~
+*.yaml~
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/

@@ -21,6 +21,8 @@ setup(
         'console_scripts': [
              'keyboard_motor_control = amr_keyboard_control.keyboard_motor_control:main',
         'serial_bridge = amr_keyboard_control.serial_bridge:main',
+        'serial_test = amr_keyboard_control.serial_test:main',
+        'simple_keyboard = amr_keyboard_control.simple_keyboard:main',
         ],
     },
 )
